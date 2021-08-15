@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Project_For_C++_Language\Management_Data_Student\Project1\Project1\Login_System.h(33,22): warning C4018: '<': signed/unsigned mismatch
+D:\Project_For_C++_Language\Management_Data_Student\Project1\Project1\Register_Account.h(33,22): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Project_For_C++_Language\Management_Data_Student\Project1\Debug\Project1.exe
